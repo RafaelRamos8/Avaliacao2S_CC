@@ -8,8 +8,7 @@ Este trabalho tem objetivo de colocar em prática os conhecimentos sobre filtro,
 
     Neste trabalho devo obter uma foto antiga e revitaliza-la, então peguei via google, a imagem de John Quincy Adams, sendo a foto mais antiga de um presidente Americano, que serviu como presidente dos EUA de 1825 a 1829, e foi feita por Philip Haas em seu estudio. Saiba mais em: [John Quincy Adams](https://pt.wikipedia.org/wiki/John_Quincy_Adams)
 
-   ![image](https://github.com/user-attachments/assets/fe91a761-beb2-4f28-b5bc-a8221ea0d38d | width=50)
-
+<img src="https://github.com/user-attachments/assets/fe91a761-beb2-4f28-b5bc-a8221ea0d38d" width="50">
 
 
 Após testar diversos filtros cheguei a duvida de dois codigos, um dos código utilizando mediana, wavelet(Haar), bilateral e aguçamento.  Essa ficou como avali_wavelet.py.
